@@ -39,3 +39,5 @@ Feature: Cryptocurrency Swap Feature
     Then User gets an error message stating "Amount exceeds the maximum limit-500"
     And User sees that no changes are made to his/her balances
 
+
+
